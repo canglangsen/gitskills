@@ -1,3 +1,3 @@
 # gitskills
-change line 1.
-I'm in test1 branch and now I'm going to test2.
+This is master line 1.
+This is master line 2.
